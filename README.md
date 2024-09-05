@@ -1,1 +1,2 @@
-https://cwdeveloping.github.io/topicAcademy/dist/index.html
+https://cwdeveloping.github.io/topicAcademy/dist/
+
